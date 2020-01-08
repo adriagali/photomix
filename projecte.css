@@ -1,0 +1,109 @@
+header,*{margin:0; padding:0;}
+
+body {
+    background:#fffffa;
+    overflow: hidden;
+}
+
+header {
+    width:100%;
+    overflow:hidden;
+    background-image: url(dubai.jpg);
+    background-size: cover;
+    margin-bottom: 20px;
+    background-position: 50%;
+}
+h1  {color: #000000}
+
+.wrapper {
+    width:90%;
+    max-width:1000px;
+    margin:auto;
+    overflow:hidden;
+}
+
+header .logo {
+    color:#f2f2f2;
+    font-size:50px;
+    line-height:200px;
+    float:left;
+
+}
+
+header nav {
+    float:right;
+    line-height:100%;
+}
+
+header nav a {
+    display:inline-block;
+    color:#000;
+    text-decoration:none;
+    padding:10px 20px;
+    line-height:normal;
+    font-size:15px;
+    font-weight:bold;
+    background-color: #fff;
+    border-radius:5px;
+}
+
+header nav a:hover {
+    background:#B8B6B6;
+    border-radius:5px;
+}
+
+.header2 {
+    position:fixed;
+    height:100px;
+   
+}
+
+.header2 .logo {
+    line-height:100px;
+    font-size:30px;
+    color:rgba(000, 000, 000);
+    text-shadow: 0px 0px 7px white;
+    float:left;
+}
+
+.header2 nav {
+    line-height:100px;
+}
+
+img {max-width:15px;
+
+    }
+
+html,body{ margin:0px; height:100%; }
+
+input,button {width: 100%; height:23%; text-shadow: 0px 0px 7px white; font-size: 20px; font-weight: bold;}
+.margin {margin-top: 10px;}
+
+ .retrats { background-image: url("retrato.jpg"); background-size: cover;}
+ .pais {background-image: url("pais.jpg"); background-size: cover;}
+ .studi {background-image: url("studi.png"); background-size: cover;}
+ .noct {background-image: url("noct.jpg");background-size: cover; padding-bottom: 40px;}
+
+ .triang { background-image: url("param.jpg"); background-size: cover;}
+ .enqu {background-image: url("enqu.jpg"); background-size: cover;}
+ .edit {background-image: url("edic.jpg"); background-size: cover;}
+ .difu {background-image: url("difu.jpg");background-size: cover; padding-bottom: 40px;}
+ .h1 {text-align: center; font-size: 60px; }
+ .body{background:#16C0F4; overflow: visible;}
+ .text {text-align: center;}
+
+iframe {width: 100%; height: 1000px; border: 0px; background-color: white}
+
+p {font-size: 25px; padding: 5px; padding-left:30px;padding-right: 15px;}
+
+h4 {font-size: 40px; padding: 15px}
+
+ol li iframe {width: 1000px; height: 500px;}
+
+ul li iframe {width: 1000px; height: 500px;}
+
+ol {padding-left: 40px}
+
+ul {padding-left: 40px}
+
+iframe {f}

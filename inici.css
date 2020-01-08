@@ -1,0 +1,69 @@
+tr th a {
+		text-align:center;
+		display:inline-block;
+	    color:#000;
+	    text-decoration:none;
+	    padding:10px 20px;
+	    line-height:normal;
+	    font-size:20px;
+	    font-weight:bold;
+	    border-radius:5px;
+	    height:280px;
+		width: 50%;
+		border-collapse: collapse;
+		text-align:center;
+		padding-top:120px;
+		font-weight: bold;
+		text-shadow: 0px 0px 7px white;
+}	
+header p {color:#f2f2f2;
+    	font-size:30px;
+    	line-height:normal;
+    	float:left;
+		text-align: center} 
+
+table {
+	width: 100%;
+
+}
+
+
+
+tr th {
+	height:200px;
+	width: 50%;
+	border-collapse: collapse;
+	border:1px;
+}
+
+div {
+	display:inline-block;
+    color:#000;
+    text-decoration:none;
+    padding-right:10px;
+    padding-left:10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    line-height:normal;
+    font-size:15px;
+    font-weight:bold;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius:5px;
+	}
+
+div:hover {background: rgba(181, 181, 181, 0.6);}
+
+body {background:black url('dubi.png') no-repeat center center;
+		overflow: hidden;
+		background-size: cover;
+  }
+
+.estil {  background:#8ba987 url('barna.jpg') no-repeat center center;
+        background-size:100% 100%; }
+
+.tuto {background:#8ba987 url('arbre.jpg') no-repeat center center;
+        background-size:100% 100%;}
+
+.mon {background:#8ba987 url('dron.jpg') no-repeat center center;
+        background-size:100% 100%;height:200px; width: 50%; border-collapse: collapse;border:1px;}
+

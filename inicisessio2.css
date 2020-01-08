@@ -1,0 +1,8 @@
+h1 {color:#0000ff; text-shadow: 0px 0px 7px white; text-align: center; }
+body { background:white url('') no-repeat center center;}
+fieldset{border-radius: 20px;width:400px; height:360px; padding:10px; margin-right: auto; margin-left: auto; }
+input {border-radius: 15px; width:300px; height: 50px; border-color: grey  }
+.rosa {background-color:#0000ff; color: white; width: 100px}
+p {text-align: center;}
+input:focus, input:hover {background-color: #cccccc;}
+.rosa:hover, .rosa:focus {background-color: #cccccc; color:black;}
